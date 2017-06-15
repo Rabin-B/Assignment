@@ -1,3 +1,2 @@
 # Assignment
-Jenkins job
-This is justa file.
+Jenkins job. This is just a file.
